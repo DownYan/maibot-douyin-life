@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "id": "dev.maibot.douyin-life",
+  "name": "刷抖音",
+  "version": "1.0.0",
+  "description": "使用 MaiBot 当前人设刷抖音、看片、互动、回复私信并管理 ComfyUI 投稿",
+  "author": {
+    "name": "TiAmoSS / cixinshang / MaiBot port",
+    "url": "https://github.com/cixinshang/dsh-douyin-life-plus"
+  },
+  "license": "MIT",
+  "urls": {
+    "repository": "https://github.com/cixinshang/dsh-douyin-life-plus"
+  },
+  "sdk": {
+    "min_version": "2.20.0",
+    "max_version": "2.99.99"
+  },
+  "plugin_type": "automation",
+  "capabilities": [
+    "personality.get_current",
+    "llm.generate"
+  ],
+  "i18n": {
+    "default_locale": "zh-CN"
+  }
+}

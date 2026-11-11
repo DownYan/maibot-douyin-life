@@ -1,0 +1,15 @@
+/config.toml
+/__pycache__/
+/.pytest_cache/
+*.py[cod]
+/.venv/
+/browser/
+/chrome-cdp/
+/ledger.json
+/login-qr.png
+/memory/
+/out/
+/.tmp/
+/media/
+/thumbs/
+/duty.log
